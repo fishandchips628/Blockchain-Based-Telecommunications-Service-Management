@@ -9,3 +9,5 @@ T
 $contracts/provider-verification.clar,9/0/90e04ec54ebccb20c9508bc713734ad7f3a6965e
 L
 contracts/service-level.clar,2/e/2e7b580923d4c8b76d71ccdf5758d17683a35f8c
+I
+contracts/settlement.clar,5/d/5dfc94e4b5c277d99517176e1947f90e0fab3471
