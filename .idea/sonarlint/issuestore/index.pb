@@ -11,3 +11,5 @@ L
 contracts/service-level.clar,2/e/2e7b580923d4c8b76d71ccdf5758d17683a35f8c
 I
 contracts/settlement.clar,5/d/5dfc94e4b5c277d99517176e1947f90e0fab3471
+M
+contracts/usage-tracking.clar,e/9/e9b09179d691ec658ec849bf83481dab4134e530
